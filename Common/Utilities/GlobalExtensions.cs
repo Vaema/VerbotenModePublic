@@ -1,5 +1,5 @@
 ﻿using Terraria;
-using VerbotenMode.Common.Players;
+using VerbotenMode.Common.Globals.Players;
 
 namespace VerbotenMode.Common.Utilities
 {

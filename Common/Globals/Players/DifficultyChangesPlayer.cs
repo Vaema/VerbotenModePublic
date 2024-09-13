@@ -7,7 +7,7 @@ using Terraria.Audio;
 using Terraria.ID;
 using Terraria.ModLoader;
 
-namespace VerbotenMode.Common.Players
+namespace VerbotenMode.Common.Globals.Players
 {
     public class DifficultyChangesPlayer : ModPlayer
     {
