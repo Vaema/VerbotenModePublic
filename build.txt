@@ -1,0 +1,14 @@
+displayName = [c/E1341E:Calamity Verboten Mode]
+author = Vaema and the Goobers
+version = 1.0
+homepage = https://discord.gg/MQq7eC5Kuh
+
+hideCode = true
+hideResources = true
+includeSource = false
+includePDB = true
+
+modReferences = CalamityMod
+sortAfter = CalamityMod
+
+buildIgnore = *.csproj, *.user, *.md, obj\*, bin\*, .vs\*, .vscode\*, .git\*, .github\*, *.gitignore, *.ymlm, *.editorconfig, Properties\*, CalamityMod.dll
